@@ -1,0 +1,38 @@
+/* ================================================
+   728 Cuisine & Events Homepage
+   Black & Gold Elegant Theme
+   ================================================ */
+
+body {
+    margin: 0;
+    font-family: "Georgia", serif;
+    background-color: #000;
+    color: #fff;
+}
+
+/* ---------- HEADER ---------- */
+header {
+    background-color: #000;
+    color: #f5d26b;
+    text-align: center;
+    padding: 20px 0;
+    border-bottom: 2px solid #f5d26b;
+}
+
+.logo h1 {
+    font-size: 42px;
+    margin: 0;
+    letter-spacing: 2px;
+}
+
+.logo span {
+    font-size: 18px;
+    display: block;
+    color: #f5d26b;
+    letter-spacing: 3px;
+}
+
+/* ---------- NAVIGATION ---------- */
+nav ul {
+    list-style: none;
+    padding: 0;
